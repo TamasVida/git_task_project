@@ -1,4 +1,10 @@
 # git_task_project
-# modified to user input
+# Practise Task 3.
+# Say Hello Function added
 
-print(input("Please enter your message: "))
+
+name = input("What is your name?: ")
+
+message = (f"Very nice to meet you {name}!")
+print(message)
+
